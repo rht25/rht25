@@ -1,14 +1,19 @@
-#                                                                                👋 Rohit Gupta 
+# 👋 Hi, I'm Rohit!
 
-🎓 Computer Science Student | 💻 Learning to build cool things with code.
+🎓 I'm a Computer Science student passionate about coding and learning new technologies.  
+💻 I love building web apps, exploring DSA, and contributing to open source.
 
-🚀 Passionate about programming, web development, and problem-solving.
+## 🛠️ Tech Stack:
+- Languages: C++, Python, JavaScript
+- Tools: Git, GitHub, VS Code
+- Learning: React, Node.js, Algorithms
 
-🌱 Currently learning: Python, javascript, HTML/CSS, Git & GitHub.
+## 📈 GitHub Stats:
+![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=rht25&show_icons=true&theme=radical)
 
-📚 Exploring Data Structures, Algorithms, and Open Source.
+## 📫 Connect with me:
+- [LinkedIn](https://www.linkedin.com/in/yourprofile/)
+- 📧 your.email@example.com
 
-📫 Let's connect: [rohitguptaroy123@gmail.com]
 
-🔧 Always curious, always coding!
 
