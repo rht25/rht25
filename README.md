@@ -1,7 +1,9 @@
 # 👋 Hi, I'm Rohit!
 
 🎓 I'm a Computer Science student passionate about  programming, web development, problem-solving, and learning new technologies.  
+
 💻  Learning to build cool things with code.
+
 🔧 Always curious, always coding!
 
 ## 🛠️ Tech Stack:
