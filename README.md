@@ -1,4 +1,4 @@
-                                                        👋 Rohit Gupta 
+#                                                        👋 Rohit Gupta 
 
 🎓 Computer Science Student | 💻 Learning to build cool things with code.
 
