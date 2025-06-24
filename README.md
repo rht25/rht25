@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Rohit</h1>
 
-🎓 I'm a Computer Science student passionate about  programming, web development, problem-solving, and learning new technologies.  
+🎓 I'm a Computer Science student passionate about  programming, web development, problem-solving, and learning new tech.  
 
 💻  Learning to build cool things with code.
 
